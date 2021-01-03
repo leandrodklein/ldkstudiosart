@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev"   
+    "dev": "next dev"
   },
   "repository": {
     "type": "git",
@@ -18,8 +18,13 @@
   },
   "homepage": "https://github.com/leandrodklein/ldkstudiosart#readme",
   "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "basic-css": "^2.0.0",
+    "bootstrap": "^4.5.3",
+    "bootstrap-next": "^1.0.5",
     "next": "^10.0.4",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "reactstrap": "^8.8.1"
   }
 }
